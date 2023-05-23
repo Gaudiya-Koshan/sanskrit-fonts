@@ -1,5 +1,5 @@
 # Sanskrit Unicode Fonts
-This is a repository of Unicode compliant fonts that contain the sanskrit diacritic or Devanagari character sets.
+This is a repository of Unicode compliant fonts that contain either the IAST Sanskrit diacritic or Devanagari character sets.
 
 As fonts are recommended:
 
